@@ -1,0 +1,23 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+.hov:hover{ color:aqua }
+.hov{color: brown;}
+.hh{color: rgb(237, 15, 15);}
+.hh:hover{color: rgb(64, 75, 199) !important;}
+.btn-mycolor{background-color: white;; color:black; border:2px solid #050a30}
+.btn-mycolor:hover{background-color: #4557d9;; color:white; border:2px solid rgb(183, 189, 183)}
+
+.myimg{box-shadow: -20px -20px 6px green;}
+.img{box-shadow: 20px 20px 6px burlywood;}
+.image{box-shadow: -20px -20px 6px slategrey;}
+
+.container1 {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+  }
+  .colored{
+    color: rgb(237, 201, 21);
+  }
+  .uncolor{
+    color: black;
+  }
